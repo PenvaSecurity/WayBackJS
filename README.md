@@ -1,6 +1,6 @@
 # WayBackJS
 A simple python script for scraping historical JavaScript files from the Wayback Machine to assist in passive reconnaissance during web application penetration testing.
-<img src="https://i.postimg.cc/3xJ0P0L4/waybackjs.png">
+<img src="https://i.postimg.cc/2SKyMcbM/waybackjs.png">
 
 ---
 
