@@ -10,19 +10,19 @@ A simple python script for scraping historical JavaScript files from the Wayback
 
 ---
 
+### Features
+- Filters only valid .js files from the files fetched from Wayback archive.
+- Strips archive prefixes/postfixes injected by the Wayback Machine.
+- Removes duplicate files (using SHA256 hashing).
+
+---
+
 ### Setting up
 ```
 git clone https://github.com/PenvaSecurity/WayBackJS
 cd WayBackJS
 python3 waybackjs.py -h
 ```
-
----
-
-### Features
-- Filters only valid .js files from the files fetched from Wayback archive.
-- Strips archive prefixes/postfixes injected by the Wayback Machine.
-- Removes duplicate files (using SHA256 hashing).
 
 ---
 
